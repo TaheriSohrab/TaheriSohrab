@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaheriSohrab
+- 👋 Hi, I’m @TaheriSohrab2
 - 👀 I’m interested in Web Development & New Technologies
 - 📫 How to reach me taherisorab4@gmail.com
 
