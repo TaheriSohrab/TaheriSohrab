@@ -14,22 +14,22 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sohrabtaheri/" target="blank">
 
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 <a href="https://www.instagram.com/seen.ta/" target="blank">
 
   <a href="https://codepen.io/seenta" target="blank">
 
-https://img.shields.io/badge/codepen-purple?style=for-the-badge&logo=codepen&logoColor=white
+[CODEPEN](https://img.shields.io/badge/codepen-purple?style=for-the-badge&logo=codepen&logoColor=white)
 </a>
 
 
 
-(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
 <a href="https://twitter.com/callmeseenta" target="blank">
 
-(https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+[TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 </a>
 
 
