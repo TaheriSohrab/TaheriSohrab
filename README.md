@@ -1,6 +1,8 @@
 <h1 align="center">Hi 😎  I'm Sohrab Taheri</h1>
 
-![Github Banner](https://raw.githubusercontent.com/TaheriSohrab/TaheriSohrab/main/SohrabGitHub.tif)
+<div style="display: flex;align-items: center;justify-content:center;">
+<img src="https://raw.githubusercontent.com/TaheriSohrab/TaheriSohrab/main/SohrabGitHub.tif" alt="SohrabTaheri">
+</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&color=0F9DAE&background=FF2C0000&multiline=true&lines=Frontend+Developer)](https://git.io/typing-svg)
