@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😇  I'm Sohrab Taheri</h1>
+<h1 align="center">Hi &128526  I'm Sohrab Taheri</h1>
 
 ![Github Banner](https://raw.githubusercontent.com/TaheriSohrab/TaheriSohrab/main/SohrabGitHub.tif)
 
