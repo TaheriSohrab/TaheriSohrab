@@ -1,6 +1,6 @@
 <h1 align="center">Hi 😎  I'm Sohrab Taheri</h1>
 
-<div style="display: flex;align-items: center;justify-content:center;">
+<div style="display: flex;align-items: center;justify-content:center;width: 100%;">
 <img src="https://raw.githubusercontent.com/TaheriSohrab/TaheriSohrab/main/SohrabGitHub.tif" alt="SohrabTaheri">
 </div>
 
