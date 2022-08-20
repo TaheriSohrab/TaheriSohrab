@@ -16,7 +16,6 @@
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<
 
   <a href="https://codepen.io/seenta" target="blank">
 
@@ -24,7 +23,9 @@
 </a>
 
 <a href="https://www.instagram.com/seen.ta/" target="blank">
+  
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  
 </a>
 <a href="https://twitter.com/callmeseenta" target="blank">
 
