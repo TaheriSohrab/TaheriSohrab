@@ -23,8 +23,7 @@
 ![Codepen](https://img.shields.io/badge/codepen-purple?style=for-the-badge&logo=codepen&logoColor=white)
 </a>
 
-
-
+<a href="https://instagram.com/seen.ta" target="blank">
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
 <a href="https://twitter.com/callmeseenta" target="blank">
